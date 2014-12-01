@@ -1,6 +1,6 @@
 #!/bin/bash
 
-IMAGE_NAME=docker.sdlocal.net/fixture/riak
+IMAGE_NAME=amurf/riak
 
 case $1 in
     build)
